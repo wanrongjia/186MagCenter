@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/secure_connect_scan"
+        android:title="发起安全连接"/>
+    <item
+        android:id="@+id/insecure_connect_scan"
+        android:title="发起非安全连接"/>
+    <item
+        android:id="@+id/discoverable"
+        android:title="可以被其他设备发现"/>
+
+</menu>
